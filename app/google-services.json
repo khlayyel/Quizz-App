@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780517687481",
+    "project_id": "weathapp-66f70",
+    "storage_bucket": "weathapp-66f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780517687481:android:315c0a5a9fbb821fca5b68",
+        "android_client_info": {
+          "package_name": "com.isamm.weathapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSDznwJhb9EiTGtb-c8c8cdb9dY2nj8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
